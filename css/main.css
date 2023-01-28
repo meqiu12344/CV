@@ -1,0 +1,95 @@
+#main{
+    text-align: center;
+}
+
+
+/* ABOUT ME */
+.about-me{
+    background-color: #212529;
+    color: white;
+}
+
+.span-box{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.span-box a{
+    color: wheat;
+}
+
+.span-box span{
+    text-align: justify;
+}
+
+
+
+/* WHAT CAN I DO */
+
+
+.row .bi{
+    text-align: center;
+    font-size: 70px;
+}
+
+.topic{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
+
+
+/* DOŚWIADCZENIE ZAWODOWE */
+
+.dos{
+    background-color: #212529;
+    color: white;
+}
+
+.text-muted-my{
+    width: 50%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.item{
+    width: 85%; 
+    margin: 0 auto
+}
+
+
+
+
+/* EDUKACJA */
+
+.edu{
+    background-color: #adb5bd;
+    color: black;
+}
+
+
+
+/* KONTAKT */
+
+.kon{
+    background-color: snow;
+    color: black;
+}
+
+.kon i{
+    color: #f05f40;
+}
+
+.row .col-lg-3{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.col-lg-3 a{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+}
